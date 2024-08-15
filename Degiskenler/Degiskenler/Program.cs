@@ -10,7 +10,7 @@ namespace Degiskenler
     {
         static void Main(string[] args)
         {
-
+            var a;
 
         }
     }
