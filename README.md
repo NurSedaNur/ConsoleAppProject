@@ -10,20 +10,21 @@ Projeler, `Program.cs` dosyasında yer almakta olup, her biri farklı bir konuya
 
 Bu çalışmalar, **BTK Akademi C# Programlama** eğitimi sırasında öğrenilen bilgilerin pekiştirilmesi amacıyla yapılmıştır. Eğitimi başarıyla tamamlayarak, aşağıdaki konularda yetkinlik kazandım:
 
-- C# Basics
-- Object Oriented Programming (OOP)
-- Arrays
-- Collections
-- Conditional Blocks
-- Data Types
-- Degiskenler
-- Error Handling
-- File Management
-- Loops
-- Operators
-- Static Methods
-- Strings and Date
+- C# Temelleri
+- Nesne Yönelimli Programlama (OOP)
+- Diziler
+- Koleksiyonlar
+- Koşul Blokları
+- Veri Tipleri
+- Değişkenler
+- Hata Yönetimi
+- Dosya Yönetimi
+- Döngüler
+- Operatörler
+- Statik Metotlar
+- String ve Tarih İşlemleri
 
+  
 ## Nasıl Kullanılır?
 
 Projeleri kendi bilgisayarınızda incelemek için aşağıdaki adımları takip edebilirsiniz:
