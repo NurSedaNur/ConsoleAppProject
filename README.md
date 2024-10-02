@@ -29,7 +29,7 @@ Bu çalışmalar, **BTK Akademi C# Programlama** eğitimi sırasında öğrenile
 Projeleri kendi bilgisayarınızda incelemek için aşağıdaki adımları takip edebilirsiniz:
 
 1. Depoyu klonlayın: 
-   git clone https://github.com/kullaniciadi/proje-adi.git
+   git clone https://github.com/NurSedaNur/ConsoleAppProject
 2. İlgili projeyi açarak, Program.cs dosyasını inceleyin.
 3. Visual Studio veya herhangi bir C# IDE'si ile projeyi çalıştırabilirsiniz.
 
@@ -66,7 +66,7 @@ These projects were completed to reinforce the knowledge gained during the **BTK
 To explore the projects on your own computer, follow these steps:
 
 1. Clone the repository: 
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/NurSedaNur/ConsoleAppProject
 2. Open the project and examine the Program.cs file.
 3. Run the project using Visual Studio or any C# IDE.
 
